@@ -1,0 +1,6 @@
+\\fs1.ad.ssis.nu\joakim\Documents\2018-19\Programmering1\snake_test\Snake\Snake\bin\Debug\Snake.exe.config
+\\fs1.ad.ssis.nu\joakim\Documents\2018-19\Programmering1\snake_test\Snake\Snake\bin\Debug\Snake.exe
+\\fs1.ad.ssis.nu\joakim\Documents\2018-19\Programmering1\snake_test\Snake\Snake\bin\Debug\Snake.pdb
+\\fs1.ad.ssis.nu\joakim\Documents\2018-19\Programmering1\snake_test\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+\\fs1.ad.ssis.nu\joakim\Documents\2018-19\Programmering1\snake_test\Snake\Snake\obj\Debug\Snake.exe
+\\fs1.ad.ssis.nu\joakim\Documents\2018-19\Programmering1\snake_test\Snake\Snake\obj\Debug\Snake.pdb
